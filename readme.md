@@ -1,13 +1,17 @@
-# Building Employee CRUD Web Application using MEAN Stack
+# Building employee CRUD web application using MEAN Stack
 
-This source code is part of Building Employee CRUD Web Application Web using MEAN Stack.
+This source code is part of Building employee CRUD web application using MEAN Stack.
 
 To run this app:
 
 - Clone this repo
+
+- Run Client
 - Run `cd client`
 - Run `npm install`
 - Run `ng serve`
+
+- Run Server
 - Run `cd server`
 - Run `npm install`
 - Run `npm start`
